@@ -66,13 +66,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
           {/* 우측 프로모션 배너 */}
           <a
-            href="https://xz84rgb87c.sens.kr"
+            href="https://ui7gwmf8ww.sens.kr"
             target="_blank"
             rel="noopener noreferrer"
             style={{ display: 'block', width: 160, marginTop: 8 }}
           >
             <img
-              src="/malen365.png"
+              src="/magabogam.png"
               alt="프로모션 배너"
               style={{ width: 160, height: 'auto' }}
             />
